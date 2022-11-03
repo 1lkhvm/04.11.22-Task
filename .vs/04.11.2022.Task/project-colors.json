@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "deee2ce9-ff90-4824-839f-6eb116e51ed3": {
+      "ProjectGuid": "deee2ce9-ff90-4824-839f-6eb116e51ed3",
+      "DisplayName": "04.11.2022.Task",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

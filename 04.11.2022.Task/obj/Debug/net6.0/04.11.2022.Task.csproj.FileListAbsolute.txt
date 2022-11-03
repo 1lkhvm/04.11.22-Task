@@ -1,0 +1,15 @@
+C:\Users\1lkhvm\Desktop\04.11.2022.Task\04.11.2022.Task\bin\Debug\net6.0\04.11.2022.Task.exe
+C:\Users\1lkhvm\Desktop\04.11.2022.Task\04.11.2022.Task\bin\Debug\net6.0\04.11.2022.Task.deps.json
+C:\Users\1lkhvm\Desktop\04.11.2022.Task\04.11.2022.Task\bin\Debug\net6.0\04.11.2022.Task.runtimeconfig.json
+C:\Users\1lkhvm\Desktop\04.11.2022.Task\04.11.2022.Task\bin\Debug\net6.0\04.11.2022.Task.dll
+C:\Users\1lkhvm\Desktop\04.11.2022.Task\04.11.2022.Task\bin\Debug\net6.0\ref\04.11.2022.Task.dll
+C:\Users\1lkhvm\Desktop\04.11.2022.Task\04.11.2022.Task\bin\Debug\net6.0\04.11.2022.Task.pdb
+C:\Users\1lkhvm\Desktop\04.11.2022.Task\04.11.2022.Task\obj\Debug\net6.0\04.11.2022.Task.csproj.AssemblyReference.cache
+C:\Users\1lkhvm\Desktop\04.11.2022.Task\04.11.2022.Task\obj\Debug\net6.0\04.11.2022.Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1lkhvm\Desktop\04.11.2022.Task\04.11.2022.Task\obj\Debug\net6.0\04.11.2022.Task.AssemblyInfoInputs.cache
+C:\Users\1lkhvm\Desktop\04.11.2022.Task\04.11.2022.Task\obj\Debug\net6.0\04.11.2022.Task.AssemblyInfo.cs
+C:\Users\1lkhvm\Desktop\04.11.2022.Task\04.11.2022.Task\obj\Debug\net6.0\04.11.2022.Task.csproj.CoreCompileInputs.cache
+C:\Users\1lkhvm\Desktop\04.11.2022.Task\04.11.2022.Task\obj\Debug\net6.0\04.11.2022.Task.dll
+C:\Users\1lkhvm\Desktop\04.11.2022.Task\04.11.2022.Task\obj\Debug\net6.0\ref\04.11.2022.Task.dll
+C:\Users\1lkhvm\Desktop\04.11.2022.Task\04.11.2022.Task\obj\Debug\net6.0\04.11.2022.Task.pdb
+C:\Users\1lkhvm\Desktop\04.11.2022.Task\04.11.2022.Task\obj\Debug\net6.0\04.11.2022.Task.genruntimeconfig.cache
